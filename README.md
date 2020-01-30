@@ -6,4 +6,4 @@ I have experience in [neuroscience](https://lsens.epfl.ch/), [neuromorphic compu
 
 I'm an armchair pundit on policy of all types and a geek about data visualisation. I also think emerging computing technologies like phase change memory, spintronics, and quantum computing are really cool. I enjoy rock climbing and play the violin, but am particularly good at neither.
 
-This is where I'll post updates and host projects I've completed.
+Get in touch with me via email at sara.summerton@manchester.ac.uk.
