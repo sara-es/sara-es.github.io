@@ -6,4 +6,4 @@ I have completed projects in [machine learning](https://github.com/sara-es/murmu
 
 I'm an armchair pundit on policy of all types and a geek about data visualisation. I also think emerging computing technologies like phase change memory, spintronics, and quantum computing are really cool. I enjoy rock climbing and play the violin, but am particularly good at neither.
 
-Check out my [publication history](sara-es.github.io/publications.html), and get in touch with me via email at sara.summerton(at)manchester.ac.uk.
+Check out my [publication history](sara-es.github.io/publications), and get in touch with me via email at sara.summerton(at)manchester.ac.uk.
