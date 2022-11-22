@@ -1,4 +1,4 @@
-## About me
+# About me
 
 My research interests are in the field of machine learning, specifically trajectory analysis and outlier detection of irregularly sampled multivariate time series. I am currently undertaking a Ph.D. in data mining of health care data under the supervision of [Dr. Dave Wong](https://personalpages.manchester.ac.uk/staff/david.wong/) and [Prof. Gavin Brown](http://www.cs.man.ac.uk/~gbrown/). Previously, I completed a joint honours BSc in Maths and Physics at the University of Manchester. 
 
@@ -6,4 +6,4 @@ I have completed projects in [machine learning](https://github.com/sara-es/murmu
 
 I'm an armchair pundit on policy of all types and a geek about data visualisation. I also think emerging computing technologies like phase change memory, spintronics, and quantum computing are really cool. I enjoy rock climbing and play the violin, but am particularly good at neither.
 
-Get in touch with me via email at sara.summerton(at)manchester.ac.uk.
+Check out my [publication history,](sara-es.github.io/publications.html), and get in touch with me via email at sara.summerton(at)manchester.ac.uk.
